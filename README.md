@@ -13,11 +13,13 @@ This is a quote that I live by:
 
 and the moto I live by is ```nothing is impossible```.
 
-### My favorite Programming Language
+[My Favorite Foods and Hobbies](#my-favorite-foods-and-hobbies)
+
+### My Favorite Programming Language
 
 My favorite programming language is **Python** and my first ever programming I learned was **C++**.
 
-This was my first program I ever wrote:
+*This was my first program I ever wrote:*
 
 ```
 include <stdio.h>
@@ -32,19 +34,19 @@ int main() {
 }
 ```
 
-### My favorite foods and hobbies
+### My Favorite Foods and Hobbies
 - My favorite foods:
-  - Chipotle
-  - McNuggets
-  - Ramen
-  - Pasta
-  - KBBQ
-- My favorite hobbies/pastime:
-  - Watching/playing basketball
-  - Watching youtube videos
-  - Playing games with friends
-  - Watching anime/kdramas
-  - Building lego models
+  1. Chipotle
+  2. ~~Mc~~Nuggets
+  3. Ramen
+  4. Pasta
+  5. KBBQ
+* My favorite hobbies/pastime:
+  1. Watching/playing basketball
+  2. Watching youtube videos
+  3. Playing games with friends
+  4. Watching anime/kdramas
+  5. Building lego models
 
 
 ### Goals for 2021
