@@ -1,5 +1,6 @@
 ## Ellis Chang's Github User Page
 View on [github](https://github.com/elliscchang/elliscchang.github.io)
+
 <img src="./IMG_2128.JPG" width="228" height="324">
 
 Hey! My name is Ellis Chang and I'm a 3rd year transfer at the University of California, San Diego, majoring in Computer Engineering and I'm in Warren College graduating Spring 2021. I am an aspiring Software Engineer/Hardware Engineer that eventually wants to own a startup in the future. I was never really into programming until I was in my community college. I knew I wanted to become an engineer when I grew up and I found my love and passion for computers after learning how to build my own computer in high school.
